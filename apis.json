@@ -1,0 +1,54 @@
+{
+    "name": "IDX Broker",
+    "description": "<p>Based in Eugene, OR, IDX, LLC is nationally known as a leading provider of real estate search applications. IDX, LLC actively manages more than $2 trillion worth of active listing data from more than 600 individual Multiple Listings Services (MLS). IDX, LLC provides integrated IDX software, customizable listing search utilities and lead management tools for real estate based websites (IDX Broker).&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/idx-broker.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "relative data",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/idx-broker\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.idxbroker.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.idxbroker.com\/feed\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.idxbroker.com"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.idxbroker.com\/"
+        },
+        {
+            "type": "Forums",
+            "url": "https:\/\/developers.idxbroker.com\/forums-home\/"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developers.idxbroker.com\/getting-started\/"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/developers.idxbroker.com\/partnership\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/idxbroker"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.idxbroker.com\/"
+        }
+    ]
+}
